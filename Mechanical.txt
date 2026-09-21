@@ -1,0 +1,6 @@
+Base: Refrigerator, Vending Machine, Sedan Chassis, Server Rack, CRT Television
+Head: Security Camera, Radar Dish, Headlight, Toaster Slot, Drone Gimbal
+Arms: Hydraulic Claws, Crane Rigging, Wiper Blades, Exhaust Pipes, Wielding Torches
+Legs: Tank Treads, Caster Wheels, Tripod Stand, Rocket Thrusters, Pneumatic Pistons
+Features: Blinking LEDs, Exposed Wiring, Steam Vents, Rust Patches, Caution Tape
+Color: Stainless Steel, Matte Black, Construction Yellow, Rusted Iron

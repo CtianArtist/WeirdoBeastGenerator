@@ -1,0 +1,6 @@
+Base: Chesterfield Couch, Bathtub, Mattress, Spoon, Dining Table
+Head: Lamp Shade, Sofa Cushion, Throw Pillow, Faucet, Microwave Door
+Arms: Broomsticks, Curtain Rods, Table Legs, Extension Cords, Mop Handles
+Legs: Wooden Pegs, Plumbing Pipes, Stack of Books, Roller Chair Wheels, Ironing Board Frame
+Features: Dust Bunnies, Upholstery Buttons, Spilled Coffee, Floral Patterning, Torn Fabric
+Color: Beige, Mahogany, Pastel Floral, Off-White

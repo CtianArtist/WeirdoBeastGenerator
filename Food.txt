@@ -1,0 +1,6 @@
+Base: Hot Dog Bun, Wedding Cake, Watermelon, Pizza Slice, Block of Cheese
+Head: Cherry, Burger Patty, Apple, Ice Cream Scoop, Meatball
+Arms: Spaghetti Noodles, Celery Stalks, French Fries, Licorice Whips, Bacon Strips
+Legs: Carrot Sticks, Pretzel Rods, Sausage Links, Chicken Bones, Churros
+Features: Sesame Seeds, Melting Cheese, Sprinkles, Powdered Sugar, Grill Marks
+Color: Ketchup Red, Mustard Yellow, Toasted Brown, Neon Frosting Blue

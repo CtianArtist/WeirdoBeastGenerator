@@ -1,0 +1,6 @@
+Base: Jellyfish Bell, Bear Torso, Serpent Coil, Toad Body, Humanoid Torso
+Head: Wolf Snout, Eagle Beak, Insectoid Mandibles, Human Face, Eyestalks
+Arms: Tentacles, Muscular Arms, Mantis Scythes, Bat Wings, Crab Pincers
+Legs: Digitigrade Legs, Slithering Tail, Webbed Feet, Centipede Crawlers, Human Legs
+Features: Poison Ivy Vines, Fur Tufts, Scaly Armor, Slime Trail, Feathered Crest
+Color: Flesh Tone, Poison Dart Neon, Camouflage Green, Ladybug Red & Black
